@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealCalculator", "RealCalculator\RealCalculator.csproj", "{7A20E157-E946-461F-A96F-1208B3F4952E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageNumber", "AverageNumber\AverageNumber.csproj", "{8C28078A-8E1A-4C22-8458-781BFDAD5CD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A20E157-E946-461F-A96F-1208B3F4952E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A20E157-E946-461F-A96F-1208B3F4952E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A20E157-E946-461F-A96F-1208B3F4952E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A20E157-E946-461F-A96F-1208B3F4952E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C28078A-8E1A-4C22-8458-781BFDAD5CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C28078A-8E1A-4C22-8458-781BFDAD5CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C28078A-8E1A-4C22-8458-781BFDAD5CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C28078A-8E1A-4C22-8458-781BFDAD5CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDFE0454-8496-47B0-BA43-60F7AB668F35}
+	EndGlobalSection
+EndGlobal
